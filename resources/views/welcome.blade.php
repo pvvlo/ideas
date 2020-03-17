@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Creación de un Componente en VUE
+                    Componente en VUE
                   
                 </div>
                 

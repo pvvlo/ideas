@@ -55446,7 +55446,9 @@ var render = function() {
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
   return _c("div", { staticClass: "card" }, [
-    _c("h2", [_vm._v("Captura tus ideas")]),
+    _c("h2", { staticClass: "card-title text-center py-3" }, [
+      _vm._v("Captura tus ideas")
+    ]),
     _vm._v(" "),
     _c("div", { staticClass: "card-body" }, [
       _c("h4", { staticClass: "card-title" }, [

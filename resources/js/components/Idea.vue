@@ -1,6 +1,6 @@
 <template>
     <div class="card">
-                <h2>Captura tus ideas</h2>
+                <h2 class="card-title text-center py-3">Captura tus ideas</h2>
                 <div class="card-body">
                     <h4 class="card-title">¿En qué estás pensando?</h4>
                     <form v-on:submit.prevent="createIdea">
